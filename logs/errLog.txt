@@ -1,0 +1,13 @@
+20231216	22:06:09	817400a2-46ac-4a28-9a79-0b3b6d6acb40	SyntaxError: Unexpected token , in JSON at position 62
+20231217	23:00:44	0b4add3f-8675-49a2-9666-cda4c7b9cf52	TypeError: Cannot read properties of undefined (reading 'username')
+20231218	01:16:12	fa755bf6-b069-4a37-916d-0ca9717d73cc	ReferenceError: decode is not defined
+20231218	01:16:41	62984593-4087-4dcd-933c-aa65cc5f422b	ReferenceError: decode is not defined
+20231218	01:16:43	bfffcd04-6fd9-4a1c-9686-ffba300e9d14	ReferenceError: decode is not defined
+20231218	01:16:44	321efa3c-75aa-453e-b55e-cbdb334fa176	ReferenceError: decode is not defined
+20231218	13:10:23	84fd2bdb-b776-4372-b6fb-6337143ff1d6	ReferenceError: allowedOrigin is not defined
+20231218	13:12:17	2f922e56-fe3e-4989-9aaa-8ebfd884141e	TypeError: Cannot read properties of undefined (reading 'username')
+20231218	13:12:23	66905894-5b99-49d6-b1db-dec3a9361386	TypeError: Cannot read properties of undefined (reading 'username')
+20231218	13:13:18	89cefd10-6609-4a18-ba2e-83a7e19b7335	TypeError: Cannot read properties of undefined (reading 'username')
+20231218	13:18:04	6b082f08-a63b-4561-bb0f-2d5ec5bc400d	TypeError: authHeader.split is not a function
+20231218	13:19:20	94361484-6bce-4221-9713-0ebfd71a7c51	TypeError: Cannot read properties of undefined (reading 'username')
+20231218	21:37:41	45ac4f53-e301-4126-a813-28175eaba7a9	TypeError: rolesarray.includes(...).find is not a function
